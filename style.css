@@ -1,0 +1,18 @@
+div#square{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    background: blue;
+}
+div#square2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    background: red;
+}
+div#square3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    background: green;
+}
